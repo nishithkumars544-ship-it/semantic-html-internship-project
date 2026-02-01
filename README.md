@@ -42,6 +42,6 @@ This project demonstrates the use of **semantic HTML elements** to build accessi
 ---
 
 ## 👨‍💻 Author
-Your Name  
+Nishithkumar selvarajan 
 Frontend Developer
 
